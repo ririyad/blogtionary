@@ -3,5 +3,7 @@ I like to read books and onlines blogs. But I love when skilled professionals ta
 
 |Title|Blog/Website Theme|Tags|
 |------|-----------------|--------|
-|[The Pragmatic Engineer](https://blog.pragmaticengineer.com/)|Writings about software developemnt | `software-development`, `pragmatic`, `book-recommendation`|
 |[The Clean Coder](http://blog.cleancoder.com/)|Blog by Uncle Bob|`software-development`, `design-principle`, `clojure`, `functional-language`, `book-recommendation`|
+|[Martin Fowler's Blog](https://martinfowler.com/)| Blog by Martin Fowler|`software-architecture`, `design-principle`, `software-development`|
+|[The Pragmatic Engineer](https://blog.pragmaticengineer.com/)|Writings about software developemnt | `software-development`, `pragmatic`, `book-recommendation`|
+
