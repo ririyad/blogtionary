@@ -3,4 +3,5 @@ I am fond of reading books and onlines blogs. But I love when skilled profession
 
 |Title|Blog/Website Theme|Tags|
 |------|-----------------|--------|
-|[The Pragmatic Engineer](https://blog.pragmaticengineer.com/)|Writings about software developemnt | `software-development`, `pragmatic`, `book-reading`|
+|[The Pragmatic Engineer](https://blog.pragmaticengineer.com/)|Writings about software developemnt | `software-development`, `pragmatic`, `book-recommendation`|
+|[The Clean Coder](http://blog.cleancoder.com/)|Blog by Uncle Bob|`software-development`, `design-principle`, `clojure`, `functional-language`, `book-recommendation`|
